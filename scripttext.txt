@@ -8,8 +8,8 @@ md igorevich
 rem this need for pause of programm
 pause
 echo off
-rem create 09092001
-echo > 09092001.txt
+rem create 10101999
+echo > 10101999.txt
 rem go to into sergeevi4
 cd igorevich
 rem create M400009505
